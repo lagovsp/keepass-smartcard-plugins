@@ -1,6 +1,6 @@
 # KeePass Smartcard Plugins
 
-This repository gather KeePass Smartcard plugins as well as their source files
+This repository gathers KeePass Smartcard plugins as well as their source files
 
 ## Plugins
 
